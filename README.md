@@ -1,7 +1,7 @@
 # CURSOR MOZAMBIQUE HACKATHON
 
 # FloodGuard Mozambique — Build for Resilience
-### A Cursor Hackathon · Organised by BIT Academy
+#### A Cursor Hackathon · Organised by BIT Academy
 
 > **One day. One tool. One real problem.**  
 > Ship a working prototype that helps Mozambicans prepare for, survive, or recover from a flood — built mobile-first, in Portuguese, using Cursor AI.
