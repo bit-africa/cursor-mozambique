@@ -2,10 +2,8 @@
 🌊FloodGuard Mozambique - Build for Resilience
 ##### A Cursor Hackathon · Organised by BIT Academy
 
-[!IMPORTANT]
-> ### ⚡ Coding Challenge
-> Ship a working prototype that helps Mozambicans prepare for, survive, or recover from a flood — built **mobile-first**, in **Portuguese**, using **Cursor AI**.
-
+> [!IMPORTANT]
+> **⚡ Coding Challenge** — Ship a working prototype that helps Mozambicans prepare for, survive, or recover from a flood — built **mobile-first**, in **Portuguese**, using **Cursor AI**.
 ---
 
 ## 📋 Table of Contents
