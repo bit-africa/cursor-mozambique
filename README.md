@@ -3,7 +3,7 @@
 ##### A Cursor Hackathon · Organised by BIT Academy
 
 > [!IMPORTANT]
-> **⚡ Coding Challenge** - Ship a working prototype that helps Mozambicans prepare for, survive, or recover from a flood — built **mobile-first**, in **Portuguese**, using **Cursor AI**.
+> **⚡ Coding Challenge** - Use **Cursor** to build a working tool that helps a Mozambican community **prepare** for, **survive**, or **recover** from a flood. It must work for real people — **mobile-first**, in **Portuguese**, and **usable on a slow connection**..
 ---
 
 ## Table of Contents
