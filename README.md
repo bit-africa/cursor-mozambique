@@ -23,7 +23,7 @@
 
 | | |
 |---|---|
-| **Event type** | One-day developer build challenge (hackathon format) |
+| **Event type** | One-day developer build challenge (hackathon) |
 | **Theme** | Flood preparedness, response & recovery in Mozambique |
 | **Core tool** | Cursor — used live for planning, coding, debugging & refactoring |
 | **Organised by** | BIT Academy |
